@@ -25,7 +25,7 @@ Rectangle{
         }
 
         onClicked: {
-            butrect.buttonClicked()
+            colinrect.buttonClicked()
         }
     }
 }

@@ -1,0 +1,8 @@
+{
+    "title": "ProjectApplication",
+    "identifier": "com.yourcompany.wizardEVAP.ProjectApplication",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ProjectApplication">
+    <file alias="qmldir">D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ProjectApplication/qmldir</file>
+  </qresource>
+</RCC>
+

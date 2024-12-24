@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/LoginPage.qml">D:/ProjectApplication/qml/LoginPage.qml</file>
+    <file alias="qml/RegisterPage.qml">D:/ProjectApplication/qml/RegisterPage.qml</file>
+    <file alias="build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/qml/LogRegButton.qml">D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/qml/LogRegButton.qml</file>
+    <file alias="qml/LogRegButton.qml">D:/ProjectApplication/qml/LogRegButton.qml</file>
+    <file alias="qml/VushObj.qml">D:/ProjectApplication/qml/VushObj.qml</file>
+    <file alias="qml/UsersWorks.qml">D:/ProjectApplication/qml/UsersWorks.qml</file>
+    <file alias="qml/MenuDrawer.qml">D:/ProjectApplication/qml/MenuDrawer.qml</file>
+    <file alias="qml/MyWorks.qml">D:/ProjectApplication/qml/MyWorks.qml</file>
+    <file alias="qml/SavedWorks.qml">D:/ProjectApplication/qml/SavedWorks.qml</file>
+    <file alias="qml/DefButton.qml">D:/ProjectApplication/qml/DefButton.qml</file>
+    <file alias="qml/OpenedVush.qml">D:/ProjectApplication/qml/OpenedVush.qml</file>
+    <file alias="qml/AddWork.qml">D:/ProjectApplication/qml/AddWork.qml</file>
+    <file alias="qml/AddWorkStep2.qml">D:/ProjectApplication/qml/AddWorkStep2.qml</file>
+    <file alias="qml/AddWorkStep3.qml">D:/ProjectApplication/qml/AddWorkStep3.qml</file>
+    <file alias="qml/ChangeWork.qml">D:/ProjectApplication/qml/ChangeWork.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,15 @@
+-rootPath
+D:/ProjectApplication
+-cmake-output
+-output-file
+D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appProjectApplication.cmake
+-importPath
+D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ProjectApplication
+-importPath
+D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_ProjectApplication.qrc
+D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_ProjectApplication_copy.qrc
+D:/ProjectApplication/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appProjectApplication_raw_qml_0.qrc

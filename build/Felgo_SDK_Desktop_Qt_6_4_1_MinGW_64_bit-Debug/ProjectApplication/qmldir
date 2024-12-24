@@ -1,0 +1,19 @@
+module ProjectApplication
+typeinfo appProjectApplication.qmltypes
+prefer :/
+LoginPage 1.0 qml/LoginPage.qml
+RegisterPage 1.0 qml/RegisterPage.qml
+LogRegButton 1.0 build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/qml/LogRegButton.qml
+LogRegButton 1.0 qml/LogRegButton.qml
+VushObj 1.0 qml/VushObj.qml
+UsersWorks 1.0 qml/UsersWorks.qml
+MenuDrawer 1.0 qml/MenuDrawer.qml
+MyWorks 1.0 qml/MyWorks.qml
+SavedWorks 1.0 qml/SavedWorks.qml
+DefButton 1.0 qml/DefButton.qml
+OpenedVush 1.0 qml/OpenedVush.qml
+AddWork 1.0 qml/AddWork.qml
+AddWorkStep2 1.0 qml/AddWorkStep2.qml
+AddWorkStep3 1.0 qml/AddWorkStep3.qml
+ChangeWork 1.0 qml/ChangeWork.qml
+
